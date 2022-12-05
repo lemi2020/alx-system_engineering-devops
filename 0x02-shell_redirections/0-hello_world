@@ -1,2 +1,2 @@
 #!/bin/bash
-nano Helloworld.shi
+echo "Hello, World"
